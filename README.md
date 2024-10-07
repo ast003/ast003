@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **asthasingh6038@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VYM29qNEg_ooRio2J2BbDw1_YbXGmMPp/view?usp=drive_link](https://drive.google.com/file/d/1VYM29qNEg_ooRio2J2BbDw1_YbXGmMPp/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VYM29qNEg_ooRio2J2BbDw1_YbXGmMPp/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
