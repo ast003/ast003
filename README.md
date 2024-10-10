@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Astha Singh</h1>
-<h3 align="center">I am a full-stack developer with a strong foundation in web development and a keen interest in machine learning and data structures.</h3>
+<h3 align="center">I am a frontend developer with a strong foundation in web development and a keen interest in machine learning and data structures.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ast003&label=Profile%20views&color=0e75b6&style=flat" alt="ast003" /> 
