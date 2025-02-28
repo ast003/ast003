@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=41FF25&background=000000&width=435&lines=Hi%2C+I'm+Astha+Singh;I+love+programming+and+making+things!;Check+out+my+README.md)](https://git.io/typing-svg)
 
