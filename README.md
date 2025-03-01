@@ -5,5 +5,5 @@
 ## A quick summary
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ast003&theme=buefy&layout=compact)
 
-- ⌨️ My interest lies in Machine Learning and Web development.
+- ⌨️ My experience lies in Machine Learning and Web Development.Currently exploring the world of Blockchain.
 - 🌱 I’m currently pre-final year student at MNNIT Allahabad.
